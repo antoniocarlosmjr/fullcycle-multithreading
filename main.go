@@ -18,7 +18,7 @@ import (
 const (
 	baseURLBrasilAPI = "https://brasilapi.com.br/api/cep/v1/"
 	baseURLViaCEP    = "https://viacep.com.br/ws/"
-	timeoutSeconds   = 5
+	timeoutSeconds   = 1
 )
 
 func main() {
